@@ -8,12 +8,12 @@
   },
   "children": [
     "son": {
-		"name": "Тима",
-         "age": 6
+	"name": "Тима",
+        "age": 6
 	},
     "daughter": {
-		"name": "Ксюша",
-         "age": 3
+	"name": "Ксюша",
+        "age": 3
 	},
   ],
   "married": true,
