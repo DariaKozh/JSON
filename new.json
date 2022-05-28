@@ -1,0 +1,21 @@
+{
+  "name": "Дарья",
+  "surname": "Кожанова",
+  "age": 33,
+  "pet": {
+    "name": "Мурка",
+    "age": 3
+  },
+  "children": [
+    "son": {
+		"name": "Тима",
+         "age": 6
+	},
+    "daughter": {
+		"name": "Ксюша",
+         "age": 3
+	},
+  ],
+  "married": true,
+  "desired salary": 200000
+}
